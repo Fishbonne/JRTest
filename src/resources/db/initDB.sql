@@ -1,0 +1,14 @@
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Viktor', '29', '1');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Vladimir', '24', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Anna', '23', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Semen', '28', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Igor', '35', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Dmitriy', '30', '1');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Natalyia', '40', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Nina', '37', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Andrey', '33', '1');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Alexey', '26', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Denis', '31', '1');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Ivan', '45', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Mikhail', '39', '0');
+INSERT INTO `test`.`user` (`name`, `age`, `isAdmin`) VALUES ('Petr', '25', '0');
